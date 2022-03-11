@@ -6,8 +6,6 @@ Esta aplicação pretende...
 
 #### Definições e acrónimos
 
-#### Entregas do projeto
-
 #### Funcionamento
 Ponto de vista do cliente:
 - Fluxograma
@@ -31,16 +29,16 @@ Riscos Técnicos:
 - Documentação
 - ...
 
-
 #### Gestão da comunicação
 Estratégia de comunicação adoptada
 Tecnologias utilizadas na comunicação
 
+#### Entregas do projeto
 
 #### Testes
 - Periodo de testes
 - Tipo de testes
-- Documentação
+- Documentação dos testes
 
 #### Data de lançamento
 
@@ -51,15 +49,12 @@ Tecnologias utilizadas na comunicação
 - Manual para o cliente
 
 #### Matriz de RACI
-Ficheiro excel com Atividades/Tarefas e Documentos
+Atividades/Tarefas e Documentos (Ficheiro excel)
 Intervenientes e responsabilidades:
 - R(esponsável)
 - A(provação)
 - C(onsultado)
 - I(nformado)
 
-
 #### Indicadores
-Taxa de sucesso / erro, Rakings
-
-
+Taxa de sucesso/erro, Rakings
