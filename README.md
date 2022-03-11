@@ -1,5 +1,5 @@
-# Restaurante
-data
+# Nome da aplicação
+data atual
 
 #### Breve descrição
 Esta aplicação pretende...
