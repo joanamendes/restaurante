@@ -10,11 +10,11 @@ Esta aplicação pretende...
 
 #### Funcionamento
 Ponto de vista do cliente:
-- Fluxograma (img_fluxo_cliente)
+- Fluxograma
 - Tarefas a desempenhar 
 
 Ponto de vista da equipa de desenvolvimento
-- Fluxograma (img_fluxo_dev)
+- Fluxograma 
 - Tarefas a desempenhar
 
 #### Gestão do tempo
@@ -24,10 +24,12 @@ Ponto de vista da equipa de desenvolvimento
 #### Gestão do Riscos
 Riscos de gestão do projeto:
 - Margem de tempo para a gestão do projeto
+- ...
 
 Riscos Técnicos:
 - A curva de aprendizagem
 - Documentação
+- ...
 
 
 #### Gestão da comunicação
